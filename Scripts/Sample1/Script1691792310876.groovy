@@ -38,5 +38,3 @@ WebUI.click(findTestObject('Object Repository/sample1/Page_CURA Healthcare Servi
 WebUI.verifyElementText(findTestObject('Object Repository/sample1/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'), 
     'Login failed! Please ensure the username and password are valid.')
 
-WebUI.closeBrowser()
-
